@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.12345-b31b1b.svg)](https://arxiv.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/1156911223.svg)](https://doi.org/10.5281/zenodo.18628648)
 
 > **“Trends do not explode — they crystallize.”**
 
